@@ -6,13 +6,17 @@ Descripción: Este proyecto consiste en la implementación de una maqueta robót
 ●	Características:
 		Las funcionalidades principales del sistema, integradas con la interfaz de control son:
 		
-		● Clasificación Automática Continua: Ejecuta el ciclo completo de procesamiento, donde el robot detecta el mineral y decide autónomamente su destino según el color.
+		● Clasificación Automática Continua: Ejecuta el ciclo completo de procesamiento, 
+		donde el robot detecta el mineral y decide autónomamente su destino según el color.
 		
-		● CLasificacion manual asitida: Permite al operador derivar manualmente el material (bloques) hacia los depósitos específicos (Verde, Azul, Rojo, Amarillo) mediante la interfaz de control.
+		● CLasificacion manual asitida: Permite al operador derivar manualmente el material (bloques) 
+		hacia los depósitos específicos (Verde, Azul, Rojo, Amarillo) mediante la interfaz de control.
 		
-		● Control de Mecanismo de Clasificación: Otorga control directo sobre el actuador de clasificación (abrir garra o empujar bloque) para tareas de mantenimiento o desatasco.
+		● Control de Mecanismo de Clasificación: Otorga control directo sobre el actuador de clasificación
+		(abrir garra o empujar bloque) para tareas de mantenimiento o desatasco.
 		
-		● Monitoreo de Sensores: Despliega en pantalla el estado actual del proceso y confirma el tipo de mineral detectado antes de su distribución.
+		● Monitoreo de Sensores: Despliega en pantalla el estado actual del proceso y 
+		confirma el tipo de mineral detectado antes de su distribución.
 		
 ●	Instalación:
 
